@@ -1,0 +1,13 @@
+# API
+fastapi==0.128.0
+uvicorn==0.40.0
+
+# ML
+numpy==2.4.0
+scikit-learn==1.8.0
+
+# Validation
+pydantic==2.12.5
+
+# Interface 
+streamlit 
