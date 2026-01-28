@@ -4,7 +4,7 @@ ARG PYTHON_VERSION="3.12"
 FROM python:${PYTHON_VERSION}-slim
 
 LABEL maintainer="Matoki"
-LABEL description="API via FastAPI"
+LABEL description="API with FastAPI"
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
