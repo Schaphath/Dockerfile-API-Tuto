@@ -120,10 +120,4 @@ Output (B ou M + probabilité)
 
 ---
 
-## Auteur
-
-**Madiba**
-
----
-
 **API développée avec FastAPI**
