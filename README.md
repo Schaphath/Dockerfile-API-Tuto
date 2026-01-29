@@ -16,7 +16,7 @@ API REST permettant de prédire si une tumeur mammaire est **bénigne (B)** ou *
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - **Health checks** : Surveillance de l'état de l'API
 - **ML Pipeline** : Modèle + Scaler chargés au démarrage
