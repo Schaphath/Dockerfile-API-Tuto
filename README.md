@@ -21,7 +21,7 @@ API REST permettant de prédire si une tumeur mammaire est **bénigne (B)** ou *
 - **Health checks** : Surveillance de l'état de l'API
 - **ML Pipeline** : Modèle + Scaler chargés au démarrage
 - **Documentation** : Swagger UI intégrée
-- **Docker** : Conteneurisation complète
+- **Docker** : Conteneurisation
 
 ---
 
@@ -30,7 +30,7 @@ API REST permettant de prédire si une tumeur mammaire est **bénigne (B)** ou *
 ### Prérequis
 
 - Python 3.12+ (pour installation locale)
-- Docker (pour conteneurisation)
+- Docker Desktop
 - FastAPI
 
 ### Option 1 : Installation locale
@@ -80,7 +80,7 @@ docker rm -f api_cancer
 ---
 
 
-**Réponse** :
+**Réponse de l'API** :
 
 ```json
 {
