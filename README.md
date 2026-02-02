@@ -10,7 +10,7 @@ API REST pour la prédiction du cancer du sein basée sur l'apprentissage automa
 
 ## Description
 
-API REST permettant de prédire si une tumeur mammaire est **bénigne (B)** ou **maligne (M)** à partir de 10 caractéristiques cellulaires. Utilise un modèle **HistGradientBoostingClassifier** avec normalisation MinMaxScaler.
+API REST permettant de prédire si une tumeur mammaire est **bénigne (B)** ou **maligne (M)** à partir de 10 caractéristiques. Utilise un modèle **HistGradientBoostingClassifier** avec normalisation MinMaxScaler.
 
 **Performances** : Recall ~98% | Precision ~97 | Accuracy ~97%
 
